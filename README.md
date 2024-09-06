@@ -1,5 +1,5 @@
 # I made this repo for myself and others to get project ideas off :p
-
+ 
 ## Beginner:
 - To-Do app
 - Flashcard app
@@ -7,19 +7,19 @@
 - Discord bot
 - Clock (for the terminal or GUI)
 - Terminal Roguelike (debatable spot with "Intermediate")
-
+ 
 ## Intermediate
 - Build tool
 - A simple web framework
 - Parser (e.x HTML to MD)
 - A graphics library (2D)
-- Data visualisation on the terminal (such as in pie chart and more.)
+- Data visualisation on the terminal (such as in pie chart)
 - Fuzzy finder
 - Testing framework
 - Your own interpreter
 - GUI markdown editor (with live previewing)
-- Markdown renderer for the terminal (P.S, escape sequences)
-
+- Markdown renderer for the terminal (P.S, use escape sequences)
+ 
 ## Advanced
 - Your own compiler (creating one for an existing language or your own)
 - Your own web browser
@@ -42,4 +42,4 @@
 - Your own memory allocator (e.x for C)
 - A game engine
 - Your own file compression algorithm
-- ASCII Renderer (that can run other games like Minecraft)
+- ASCII Renderer (that can run other games, like Minecraft)
